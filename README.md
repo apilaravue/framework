@@ -1,11 +1,10 @@
 <p align="center"><a href="https://apilaravue.github.io" target="_blank"><img src="https://apilaravue.github.io/apilaravue-slogan.png"></a></p>
 
 <p align="center">
-
-[![Build Status](https://travis-ci.org/apilaravue/framework.svg)](https://travis-ci.org/apilaravue/framework)
-[![Latest Stable Version](https://poser.pugx.org/apilaravue/framework/v/stable)](https://packagist.org/packages/apilaravue/framework)
-[![Total Downloads](https://poser.pugx.org/apilaravue/framework/downloads)](https://packagist.org/packages/apilaravue/framework)
-[![License](https://poser.pugx.org/apilaravue/framework/license)](https://packagist.org/packages/apilaravue/framework)
+<a href="https://travis-ci.org/apilaravue/framework"><img src="https://travis-ci.org/apilaravue/framework.svg" alt="Build Status"></a>
+<a href="https://packagist.org/packages/apilaravue/framework"><img src="https://poser.pugx.org/apilaravue/framework/d/total.svg" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/apilaravue/framework"><img src="https://poser.pugx.org/apilaravue/framework/v/stable.svg" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/apilaravue/framework"><img src="https://poser.pugx.org/apilaravue/framework/license.svg" alt="License"></a>
 </p>
 
 ## About ApiLaravue
