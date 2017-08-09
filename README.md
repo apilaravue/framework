@@ -1,7 +1,8 @@
 <p align="center"><a href="https://apilaravue.github.io" target="_blank"><img src="https://apilaravue.github.io/apilaravue-slogan.png"></a></p>
 
 <p align="center">
-<a href="https://travis-ci.org/apilaravue/framework"><img src="https://travis-ci.org/apilaravue/framework.svg" alt="Build Status"></a>
+
+[![Build Status](https://travis-ci.org/apilaravue/framework.svg)](https://travis-ci.org/apilaravue/framework)
 [![Latest Stable Version](https://poser.pugx.org/apilaravue/framework/v/stable)](https://packagist.org/packages/apilaravue/framework)
 [![Total Downloads](https://poser.pugx.org/apilaravue/framework/downloads)](https://packagist.org/packages/apilaravue/framework)
 [![License](https://poser.pugx.org/apilaravue/framework/license)](https://packagist.org/packages/apilaravue/framework)
