@@ -1,0 +1,58 @@
+{
+    "name": "apilaravue/framework",
+    "description": "The Apilaravue Framework.",
+    "keywords": ["framework", "apilaravue"],
+    "license": "MIT",
+    "homepage": "https://apilaravue.github.io",
+    "support": {
+        "issues": "https://github.com/apilaravue/framework/issues",
+        "source": "https://github.com/apilaravue/framework"
+    },
+    "authors": [
+        {
+            "name": "Kamga Simo Junior",
+            "email": "kamgasimojunior@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.6.4",
+        "ext-mbstring": "*",
+        "ext-openssl": "*"
+    },
+    "replace": {
+        "Framspace/log": "self.version"
+    },
+    "require-dev": {
+        
+    },
+    "autoload": {
+        "files": [
+            "src/Framspace/Foundation/helpers.php",
+            "src/Framspace/Support/helpers.php"
+        ],
+        "psr-4": {
+            "Framspace\\": "src/Framspace/"
+        }
+    },
+    "autoload-dev": {
+        "files": [
+
+        ],
+        "psr-4": {
+            "Framspace\\Tests\\": "tests/"
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0-dev"
+        }
+    },
+    "suggest": {
+        
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
