@@ -27,8 +27,7 @@
     },
     "autoload": {
         "files": [
-            "src/Framspace/Foundation/helpers.php",
-            "src/Framspace/Support/helpers.php"
+            
         ],
         "psr-4": {
             "Framspace\\": "src/Framspace/"
